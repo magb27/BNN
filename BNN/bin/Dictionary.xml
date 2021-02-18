@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<dictionary>
+	<concept conceptId="500" conceptName="Numbers" parentId="0"  region="RegionOne"/>
+	<concept conceptId="1000" conceptName="Cero" parentId="500"  region="RegionOne"/>
+	<concept conceptId="1001" conceptName="One" parentId="500"  region="RegionOne"/>
+	<concept conceptId="1002" conceptName="Two" parentId="500"  region="RegionOne"/>
+	<concept conceptId="1003" conceptName="Three" parentId="500"  region="RegionOne"/>
+	<concept conceptId="1004" conceptName="Four" parentId="500"  region="RegionOne"/>
+	<concept conceptId="1005" conceptName="Five" parentId="500"  region="RegionOne"/>
+	<concept conceptId="1006" conceptName="Six" parentId="500"  region="RegionOne"/>
+	<concept conceptId="1007" conceptName="Seven" parentId="500"  region="RegionOne"/>
+	<concept conceptId="1008" conceptName="Eigth" parentId="500"  region="RegionOne"/>
+	<concept conceptId="1009" conceptName="Nine" parentId="500"  region="RegionOne"/>
+</dictionary>
